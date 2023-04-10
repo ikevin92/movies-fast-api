@@ -1,17 +1,13 @@
 anyio==3.6.2
-autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
-certifi @ file:///Users/ec2-user/ci_py311/certifi_1678321191472/work/certifi
 click==8.1.3
 fastapi==0.95.0
 greenlet==2.0.2
 h11==0.14.0
 idna==3.4
-pycodestyle @ file:///Users/ec2-user/ci_py311/pycodestyle_1678324331308/work
 pydantic==1.10.7
 PyJWT==2.6.0
 sniffio==1.3.0
 SQLAlchemy==2.0.9
 starlette==0.26.1
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 typing_extensions==4.5.0
 uvicorn==0.21.1
